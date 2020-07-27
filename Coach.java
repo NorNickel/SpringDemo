@@ -2,5 +2,7 @@ package best.aog.springdemo;
 
 public interface Coach {
 
-    public String getDailyWorkout();
+    String getDailyWorkout();
+
+    String getDailyFortune();
 }
